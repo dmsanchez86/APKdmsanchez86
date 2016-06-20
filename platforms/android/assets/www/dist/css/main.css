@@ -3,7 +3,7 @@
   font-family: 'Pacifico';
   font-style: normal;
   font-weight: 400;
-  src: local("Pacifico Regular"), local("Pacifico-Regular"), url(../fonts/Q_Z9mv4hySLTMoMjnk_rCfesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
+  src: local("Pacifico Regular"), local("Pacifico-Regular"), url(../../fonts/Q_Z9mv4hySLTMoMjnk_rCfesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; }
 
 /* latin */
@@ -11,7 +11,7 @@
   font-family: 'Indie Flower';
   font-style: normal;
   font-weight: 400;
-  src: local("Indie Flower"), local("IndieFlower"), url(../fonts/10JVD_humAd5zP2yrFqw6ugdm0LZdjqr5-oayXSOefg.woff2) format("woff2");
+  src: local("Indie Flower"), local("IndieFlower"), url(../../fonts/10JVD_humAd5zP2yrFqw6ugdm0LZdjqr5-oayXSOefg.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; }
 
 /* latin-ext */
@@ -19,7 +19,7 @@
   font-family: 'Yanone Kaffeesatz';
   font-style: normal;
   font-weight: 300;
-  src: local("Yanone Kaffeesatz Light"), local("YanoneKaffeesatz-Light"), url(../fonts/We_iSDqttE3etzfdfhuPRV_VQuBLpnllPs8BB5MjWqY.woff2) format("woff2");
+  src: local("Yanone Kaffeesatz Light"), local("YanoneKaffeesatz-Light"), url(../../fonts/We_iSDqttE3etzfdfhuPRV_VQuBLpnllPs8BB5MjWqY.woff2) format("woff2");
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; }
 
 /* latin */
@@ -27,7 +27,7 @@
   font-family: 'Yanone Kaffeesatz';
   font-style: normal;
   font-weight: 300;
-  src: local("Yanone Kaffeesatz Light"), local("YanoneKaffeesatz-Light"), url(../fonts/We_iSDqttE3etzfdfhuPRcITWGgmQvtcmgaGakhz0f4.woff2) format("woff2");
+  src: local("Yanone Kaffeesatz Light"), local("YanoneKaffeesatz-Light"), url(../../fonts/We_iSDqttE3etzfdfhuPRcITWGgmQvtcmgaGakhz0f4.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; }
 
 /* latin-ext */
@@ -35,7 +35,7 @@
   font-family: 'Yanone Kaffeesatz';
   font-style: normal;
   font-weight: 400;
-  src: local("Yanone Kaffeesatz Regular"), local("YanoneKaffeesatz-Regular"), url(../fonts/YDAoLskQQ5MOAgvHUQCcLV83L2yn_om9bG0a6EHWBso.woff2) format("woff2");
+  src: local("Yanone Kaffeesatz Regular"), local("YanoneKaffeesatz-Regular"), url(../../fonts/YDAoLskQQ5MOAgvHUQCcLV83L2yn_om9bG0a6EHWBso.woff2) format("woff2");
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; }
 
 /* latin */
@@ -43,7 +43,7 @@
   font-family: 'Yanone Kaffeesatz';
   font-style: normal;
   font-weight: 400;
-  src: local("Yanone Kaffeesatz Regular"), local("YanoneKaffeesatz-Regular"), url(../fonts/YDAoLskQQ5MOAgvHUQCcLfGwxTS8d1Q9KiDNCMKLFUM.woff2) format("woff2");
+  src: local("Yanone Kaffeesatz Regular"), local("YanoneKaffeesatz-Regular"), url(../../fonts/YDAoLskQQ5MOAgvHUQCcLfGwxTS8d1Q9KiDNCMKLFUM.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; }
 
 /* latin-ext */
@@ -51,7 +51,7 @@
   font-family: 'Yanone Kaffeesatz';
   font-style: normal;
   font-weight: 700;
-  src: local("Yanone Kaffeesatz Bold"), local("YanoneKaffeesatz-Bold"), url(../fonts/We_iSDqttE3etzfdfhuPRcccuzE5yCkGgbLL57XEJls.woff2) format("woff2");
+  src: local("Yanone Kaffeesatz Bold"), local("YanoneKaffeesatz-Bold"), url(../../fonts/We_iSDqttE3etzfdfhuPRcccuzE5yCkGgbLL57XEJls.woff2) format("woff2");
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF; }
 
 /* latin */
@@ -59,7 +59,7 @@
   font-family: 'Yanone Kaffeesatz';
   font-style: normal;
   font-weight: 700;
-  src: local("Yanone Kaffeesatz Bold"), local("YanoneKaffeesatz-Bold"), url(../fonts/We_iSDqttE3etzfdfhuPRfZL2QQ6ZygscP6wIFo8mp8.woff2) format("woff2");
+  src: local("Yanone Kaffeesatz Bold"), local("YanoneKaffeesatz-Bold"), url(../../fonts/We_iSDqttE3etzfdfhuPRfZL2QQ6ZygscP6wIFo8mp8.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; }
 
 .materialize-red.lighten-5 {
@@ -3128,6 +3128,18 @@ body {
         -ms-animation: scaleIn 0.5s 1s linear forwards;
         -o-animation: scaleIn 0.5s 1s linear forwards;
         animation: scaleIn 0.5s 1s linear forwards; }
+    body.profile .twitter_content {
+      z-index: 115;
+      bottom: 4rem;
+      right: 6rem; }
+      body.profile .twitter_content label {
+        color: #323232;
+        -webkit-text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+        -khtml-text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+        -moz-text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+        -ms-text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+        -o-text-shadow: 0 0 4px rgba(255, 255, 255, 0.5);
+        text-shadow: 0 0 4px rgba(255, 255, 255, 0.5); }
   body.menu {
     background-image: -webkit-linear-gradient(left, #d6d3d3, #fff);
     background-image: -khtml-linear-gradient(left, #d6d3d3, #fff);
@@ -3253,6 +3265,32 @@ video.responsive-video {
       -ms-animation: circle_resort 1s 1 ease;
       -o-animation: circle_resort 1s 1 ease;
       animation: circle_resort 1s 1 ease; }
+    .navigator_content .logo:hover svg text {
+      -webkit-animation: move_letter 1s 1 ease;
+      -khtml-animation: move_letter 1s 1 ease;
+      -moz-animation: move_letter 1s 1 ease;
+      -ms-animation: move_letter 1s 1 ease;
+      -o-animation: move_letter 1s 1 ease;
+      animation: move_letter 1s 1 ease;
+      -webkit-transform-origin: top center;
+      -khtml-transform-origin: top center;
+      -moz-transform-origin: top center;
+      -ms-transform-origin: top center;
+      -o-transform-origin: top center;
+      transform-origin: top center; }
+      .navigator_content .logo:hover svg text:last-child {
+        -webkit-transform-origin: center;
+        -khtml-transform-origin: center;
+        -moz-transform-origin: center;
+        -ms-transform-origin: center;
+        -o-transform-origin: center;
+        transform-origin: center;
+        -webkit-animation: rotate_letter 0.6s 1 ease;
+        -khtml-animation: rotate_letter 0.6s 1 ease;
+        -moz-animation: rotate_letter 0.6s 1 ease;
+        -ms-animation: rotate_letter 0.6s 1 ease;
+        -o-animation: rotate_letter 0.6s 1 ease;
+        animation: rotate_letter 0.6s 1 ease; }
     .navigator_content .logo:focus {
       outline: none; }
       .navigator_content .logo:focus:after {
@@ -3673,14 +3711,18 @@ video.responsive-video {
       -o-text-shadow: 1px -1px 1px #323232, 2px -2px 1px #323232, 3px -3px 1px #323232, 4px -4px 1px #323232, 5px -5px 1px #323232, 6px -6px 1px #323232, 7px -7px 1px #323232, 8px -8px 1px #323232;
       text-shadow: 1px -1px 1px #323232, 2px -2px 1px #323232, 3px -3px 1px #323232, 4px -4px 1px #323232, 5px -5px 1px #323232, 6px -6px 1px #323232, 7px -7px 1px #323232, 8px -8px 1px #323232; }
       .project .title > a:hover {
-        -webkit-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-        -khtml-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-        -moz-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-        -ms-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-        -o-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-        text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111; }
+        -webkit-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545;
+        -khtml-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545;
+        -moz-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545;
+        -ms-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545;
+        -o-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545;
+        text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545; }
       .project .title > a[title-ref] {
         position: relative; }
+        .project .title > a[title-ref]:first-child:after {
+          left: 3%; }
+        .project .title > a[title-ref]:last-child:after {
+          left: -200%; }
         .project .title > a[title-ref]:after {
           position: absolute;
           top: 90%;
@@ -3765,84 +3807,84 @@ video.responsive-video {
           -o-animation: text3D 3s infinite linear;
           animation: text3D 3s infinite linear; }
     .project .title:hover > a {
-      -webkit-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-      -khtml-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-      -moz-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-      -ms-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-      -o-text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111;
-      text-shadow: 2px -1px 1px #111, 3px -2px 1px #111, 4px -3px 1px #111, 5px -4px 1px #111, 6px -5px 1px #111, 7px -6px 1px #111, 8px -7px 1px #111, 9px -8px 1px #111, 10px -9px 1px #111, 11px -10px 1px #111; }
+      -webkit-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545, 12px -11px 1px #464545;
+      -khtml-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545, 12px -11px 1px #464545;
+      -moz-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545, 12px -11px 1px #464545;
+      -ms-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545, 12px -11px 1px #464545;
+      -o-text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545, 12px -11px 1px #464545;
+      text-shadow: 2px -1px 1px #464545, 3px -2px 1px #464545, 4px -3px 1px #464545, 5px -4px 1px #464545, 6px -5px 1px #464545, 7px -6px 1px #464545, 8px -7px 1px #464545, 9px -8px 1px #464545, 10px -9px 1px #464545, 11px -10px 1px #464545, 12px -11px 1px #464545; }
     .project .title:hover .tools {
       display: block; }
       .project .title:hover .tools .tool:nth-child(1) {
-        -webkit-animation: move 0.5s 1 0.2s ease-in forwards;
-        -khtml-animation: move 0.5s 1 0.2s ease-in forwards;
-        -moz-animation: move 0.5s 1 0.2s ease-in forwards;
-        -ms-animation: move 0.5s 1 0.2s ease-in forwards;
-        -o-animation: move 0.5s 1 0.2s ease-in forwards;
-        animation: move 0.5s 1 0.2s ease-in forwards; }
+        -webkit-animation: move 500ms 1 0.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 0.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 0.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 0.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 0.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 0.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(2) {
-        -webkit-animation: move 0.5s 1 0.4s ease-in forwards;
-        -khtml-animation: move 0.5s 1 0.4s ease-in forwards;
-        -moz-animation: move 0.5s 1 0.4s ease-in forwards;
-        -ms-animation: move 0.5s 1 0.4s ease-in forwards;
-        -o-animation: move 0.5s 1 0.4s ease-in forwards;
-        animation: move 0.5s 1 0.4s ease-in forwards; }
+        -webkit-animation: move 500ms 1 0.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 0.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 0.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 0.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 0.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 0.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(3) {
-        -webkit-animation: move 0.5s 1 0.8s ease-in forwards;
-        -khtml-animation: move 0.5s 1 0.8s ease-in forwards;
-        -moz-animation: move 0.5s 1 0.8s ease-in forwards;
-        -ms-animation: move 0.5s 1 0.8s ease-in forwards;
-        -o-animation: move 0.5s 1 0.8s ease-in forwards;
-        animation: move 0.5s 1 0.8s ease-in forwards; }
+        -webkit-animation: move 500ms 1 0.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 0.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 0.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 0.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 0.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 0.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(4) {
-        -webkit-animation: move 0.5s 1 1.6s ease-in forwards;
-        -khtml-animation: move 0.5s 1 1.6s ease-in forwards;
-        -moz-animation: move 0.5s 1 1.6s ease-in forwards;
-        -ms-animation: move 0.5s 1 1.6s ease-in forwards;
-        -o-animation: move 0.5s 1 1.6s ease-in forwards;
-        animation: move 0.5s 1 1.6s ease-in forwards; }
+        -webkit-animation: move 500ms 1 1.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 1.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 1.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 1.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 1.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 1.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(5) {
-        -webkit-animation: move 0.5s 1 3.2s ease-in forwards;
-        -khtml-animation: move 0.5s 1 3.2s ease-in forwards;
-        -moz-animation: move 0.5s 1 3.2s ease-in forwards;
-        -ms-animation: move 0.5s 1 3.2s ease-in forwards;
-        -o-animation: move 0.5s 1 3.2s ease-in forwards;
-        animation: move 0.5s 1 3.2s ease-in forwards; }
+        -webkit-animation: move 500ms 1 3.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 3.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 3.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 3.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 3.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 3.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(6) {
-        -webkit-animation: move 0.5s 1 6.4s ease-in forwards;
-        -khtml-animation: move 0.5s 1 6.4s ease-in forwards;
-        -moz-animation: move 0.5s 1 6.4s ease-in forwards;
-        -ms-animation: move 0.5s 1 6.4s ease-in forwards;
-        -o-animation: move 0.5s 1 6.4s ease-in forwards;
-        animation: move 0.5s 1 6.4s ease-in forwards; }
+        -webkit-animation: move 500ms 1 6.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 6.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 6.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 6.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 6.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 6.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(7) {
-        -webkit-animation: move 0.5s 1 12.8s ease-in forwards;
-        -khtml-animation: move 0.5s 1 12.8s ease-in forwards;
-        -moz-animation: move 0.5s 1 12.8s ease-in forwards;
-        -ms-animation: move 0.5s 1 12.8s ease-in forwards;
-        -o-animation: move 0.5s 1 12.8s ease-in forwards;
-        animation: move 0.5s 1 12.8s ease-in forwards; }
+        -webkit-animation: move 500ms 1 12.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 12.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 12.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 12.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 12.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 12.8s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(8) {
-        -webkit-animation: move 0.5s 1 25.6s ease-in forwards;
-        -khtml-animation: move 0.5s 1 25.6s ease-in forwards;
-        -moz-animation: move 0.5s 1 25.6s ease-in forwards;
-        -ms-animation: move 0.5s 1 25.6s ease-in forwards;
-        -o-animation: move 0.5s 1 25.6s ease-in forwards;
-        animation: move 0.5s 1 25.6s ease-in forwards; }
+        -webkit-animation: move 500ms 1 25.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 25.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 25.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 25.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 25.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 25.6s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(9) {
-        -webkit-animation: move 0.5s 1 51.2s ease-in forwards;
-        -khtml-animation: move 0.5s 1 51.2s ease-in forwards;
-        -moz-animation: move 0.5s 1 51.2s ease-in forwards;
-        -ms-animation: move 0.5s 1 51.2s ease-in forwards;
-        -o-animation: move 0.5s 1 51.2s ease-in forwards;
-        animation: move 0.5s 1 51.2s ease-in forwards; }
+        -webkit-animation: move 500ms 1 51.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 51.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 51.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 51.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 51.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 51.2s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
       .project .title:hover .tools .tool:nth-child(10) {
-        -webkit-animation: move 0.5s 1 102.4s ease-in forwards;
-        -khtml-animation: move 0.5s 1 102.4s ease-in forwards;
-        -moz-animation: move 0.5s 1 102.4s ease-in forwards;
-        -ms-animation: move 0.5s 1 102.4s ease-in forwards;
-        -o-animation: move 0.5s 1 102.4s ease-in forwards;
-        animation: move 0.5s 1 102.4s ease-in forwards; }
+        -webkit-animation: move 500ms 1 102.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -khtml-animation: move 500ms 1 102.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -moz-animation: move 500ms 1 102.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -ms-animation: move 500ms 1 102.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        -o-animation: move 500ms 1 102.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards;
+        animation: move 500ms 1 102.4s cubic-bezier(0.06, 0.18, 1, 1.11) forwards; }
   .project img {
     max-width: 200px; }
 
@@ -4040,7 +4082,8 @@ video.responsive-video {
   padding: 0; }
 
 #fp-nav {
-  top: 90%; }
+  top: inherit;
+  bottom: 2rem; }
   #fp-nav ul li a span {
     background: white;
     -webkit-transition: all 0.5s ease;
@@ -4724,6 +4767,12 @@ video.responsive-video {
               -ms-animation: none;
               -o-animation: none;
               animation: none; }
+          .popup .popup-body article .project .title > a[title-ref]:first-child:after {
+            left: 0%; }
+          .popup .popup-body article .project .title > a[title-ref]:last-child:after {
+            left: inherit;
+            right: 0%;
+            bottom: 97%; }
           .popup .popup-body article .project .title > a[title-ref]:after {
             left: -150%;
             width: 400%;
@@ -4756,6 +4805,155 @@ video.responsive-video {
   background-image: -webkit-linear-gradient(left, #D67F35, #e68634, #D67F35) !important;
   background-image: -moz-linear-gradient(left, #D67F35, #e68634, #D67F35) !important;
   background-image: linear-gradient(left, #D67F35, #e68634, #D67F35) !important; }
+
+.twitter_content {
+  position: absolute;
+  bottom: 2rem;
+  right: 5rem;
+  color: white;
+  -webkit-perspective: 500px;
+  -khtml-perspective: 500px;
+  -moz-perspective: 500px;
+  -ms-perspective: 500px;
+  -o-perspective: 500px;
+  perspective: 500px;
+  -webkit-transition: bottom 200ms linear, right 200ms ease;
+  -khtml-transition: bottom 200ms linear, right 200ms ease;
+  -moz-transition: bottom 200ms linear, right 200ms ease;
+  -ms-transition: bottom 200ms linear, right 200ms ease;
+  -o-transition: bottom 200ms linear, right 200ms ease;
+  transition: bottom 200ms linear, right 200ms ease; }
+  .twitter_content label {
+    font-size: 2rem;
+    cursor: pointer;
+    -webkit-transition: all 200ms ease;
+    -khtml-transition: all 200ms ease;
+    -moz-transition: all 200ms ease;
+    -ms-transition: all 200ms ease;
+    -o-transition: all 200ms ease;
+    transition: all 200ms ease;
+    -webkit-text-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    -khtml-text-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    -moz-text-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    -ms-text-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    -o-text-shadow: 0 0 2px rgba(0, 0, 0, 0.4);
+    text-shadow: 0 0 2px rgba(0, 0, 0, 0.4); }
+    .twitter_content label:hover {
+      -webkit-text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+      -khtml-text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+      -moz-text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+      -ms-text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+      -o-text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+      text-shadow: 0 0 5px rgba(0, 0, 0, 0.4); }
+    .twitter_content label:after {
+      position: absolute;
+      bottom: 100%;
+      right: 0%;
+      width: 8rem;
+      content: attr(title-ref);
+      color: white;
+      opacity: 0;
+      padding: .15rem .5rem;
+      font-size: 16px;
+      font-family: 'Yanone Kaffeesatz', sans-serif;
+      -webkit-text-shadow: none;
+      -khtml-text-shadow: none;
+      -moz-text-shadow: none;
+      -ms-text-shadow: none;
+      -o-text-shadow: none;
+      text-shadow: none;
+      -webkit-transition: transform 0.5s ease, opacity 0.25s ease;
+      -khtml-transition: transform 0.5s ease, opacity 0.25s ease;
+      -moz-transition: transform 0.5s ease, opacity 0.25s ease;
+      -ms-transition: transform 0.5s ease, opacity 0.25s ease;
+      -o-transition: transform 0.5s ease, opacity 0.25s ease;
+      transition: transform 0.5s ease, opacity 0.25s ease;
+      -webkit-transform: translate3d(0, -10%, 0);
+      -khtml-transform: translate3d(0, -10%, 0);
+      -moz-transform: translate3d(0, -10%, 0);
+      -ms-transform: translate3d(0, -10%, 0);
+      -o-transform: translate3d(0, -10%, 0);
+      transform: translate3d(0, -10%, 0);
+      background-image: -webkit-radial-gradient(center, #111, #323232);
+      background-image: -khtml-radial-gradient(center, #111, #323232);
+      background-image: -moz-radial-gradient(center, #111, #323232);
+      background-image: -ms-radial-gradient(center, #111, #323232);
+      background-image: -o-radial-gradient(center, #111, #323232);
+      background-image: radial-gradient(center, #111, #323232);
+      -webkit-border-radius: 4px;
+      -khtml-border-radius: 4px;
+      -moz-border-radius: 4px;
+      -ms-border-radius: 4px;
+      -o-border-radius: 4px;
+      border-radius: 4px; }
+    .twitter_content label:before {
+      position: absolute;
+      top: -6%;
+      left: 0;
+      width: 11px;
+      margin: auto;
+      right: 0;
+      border: solid #323232;
+      opacity: 0;
+      content: '';
+      border-width: 5px  5px 0 5px;
+      border-color: #323232 transparent transparent transparent;
+      -webkit-transition: opacity 0.25s ease;
+      -khtml-transition: opacity 0.25s ease;
+      -moz-transition: opacity 0.25s ease;
+      -ms-transition: opacity 0.25s ease;
+      -o-transition: opacity 0.25s ease;
+      transition: opacity 0.25s ease; }
+    .twitter_content label:hover:after {
+      opacity: 1;
+      -webkit-transform: translate3d(0, 0, 0);
+      -khtml-transform: translate3d(0, 0, 0);
+      -moz-transform: translate3d(0, 0, 0);
+      -ms-transform: translate3d(0, 0, 0);
+      -o-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0); }
+    .twitter_content label:hover:before {
+      opacity: 1; }
+  .twitter_content input[type=checkbox] {
+    display: none; }
+    .twitter_content input[type=checkbox]:checked + .container.close {
+      -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+      -khtml-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+      -ms-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+      -o-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+      -webkit-transform: scale(1) rotatex(0) rotatey(0) translate3d(0, 0, 0);
+      -khtml-transform: scale(1) rotatex(0) rotatey(0) translate3d(0, 0, 0);
+      -moz-transform: scale(1) rotatex(0) rotatey(0) translate3d(0, 0, 0);
+      -ms-transform: scale(1) rotatex(0) rotatey(0) translate3d(0, 0, 0);
+      -o-transform: scale(1) rotatex(0) rotatey(0) translate3d(0, 0, 0);
+      transform: scale(1) rotatex(0) rotatey(0) translate3d(0, 0, 0); }
+  .twitter_content .container {
+    position: absolute;
+    bottom: 40px;
+    right: 0;
+    width: 255px;
+    height: 400px;
+    -webkit-transition: transform 300ms ease;
+    -khtml-transition: transform 300ms ease;
+    -moz-transition: transform 300ms ease;
+    -ms-transition: transform 300ms ease;
+    -o-transition: transform 300ms ease;
+    transition: transform 300ms ease;
+    -webkit-transform-origin: right bottom;
+    -khtml-transform-origin: right bottom;
+    -moz-transform-origin: right bottom;
+    -ms-transform-origin: right bottom;
+    -o-transform-origin: right bottom;
+    transform-origin: right bottom; }
+    .twitter_content .container.close {
+      -webkit-transform: scale(0) rotatex(120deg) rotatey(120deg) translate3d(0, 0, -300px);
+      -khtml-transform: scale(0) rotatex(120deg) rotatey(120deg) translate3d(0, 0, -300px);
+      -moz-transform: scale(0) rotatex(120deg) rotatey(120deg) translate3d(0, 0, -300px);
+      -ms-transform: scale(0) rotatex(120deg) rotatey(120deg) translate3d(0, 0, -300px);
+      -o-transform: scale(0) rotatex(120deg) rotatey(120deg) translate3d(0, 0, -300px);
+      transform: scale(0) rotatex(120deg) rotatey(120deg) translate3d(0, 0, -300px); }
 
 @media (max-width: 980px) {
   body.home .navigator_content .navigator ul {
@@ -4937,7 +5135,9 @@ video.responsive-video {
       border-width: 5px  5px 0 5px;
       border-color: #323232 transparent transparent transparent; }
     .popup .popup-body article .project .title > a[title-ref]:nth-child(6):before {
-      top: 4%; } }
+      top: 4%; }
+  .twitter_content label {
+    display: none; } }
 
 @media (max-width: 400px) {
   #fp-nav {
@@ -6431,6 +6631,186 @@ video.responsive-video {
     transform: scale(1.3);
     opacity: 0; } }
 
+@keyframes move_letter {
+  0% {
+    -webkit-transform: translate3d(-10px, 0, 0);
+    -khtml-transform: translate3d(-10px, 0, 0);
+    -moz-transform: translate3d(-10px, 0, 0);
+    -ms-transform: translate3d(-10px, 0, 0);
+    -o-transform: translate3d(-10px, 0, 0);
+    transform: translate3d(-10px, 0, 0); }
+  50% {
+    -webkit-transform: translate3d(-5px, 0, 0);
+    -khtml-transform: translate3d(-5px, 0, 0);
+    -moz-transform: translate3d(-5px, 0, 0);
+    -ms-transform: translate3d(-5px, 0, 0);
+    -o-transform: translate3d(-5px, 0, 0);
+    transform: translate3d(-5px, 0, 0); }
+  70% {
+    -webkit-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -khtml-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -moz-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -ms-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -o-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    transform: translate3d(-3px, -4px, 0) rotate(-5deg); }
+  100% {
+    -webkit-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -khtml-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -moz-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -ms-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -o-transform: translate3d(-1, 0, 0) rotate(5deg);
+    transform: translate3d(-1, 0, 0) rotate(5deg); } }
+
+@-webkit-keyframes move_letter {
+  0% {
+    -webkit-transform: translate3d(-10px, 0, 0);
+    -khtml-transform: translate3d(-10px, 0, 0);
+    -moz-transform: translate3d(-10px, 0, 0);
+    -ms-transform: translate3d(-10px, 0, 0);
+    -o-transform: translate3d(-10px, 0, 0);
+    transform: translate3d(-10px, 0, 0); }
+  50% {
+    -webkit-transform: translate3d(-5px, 0, 0);
+    -khtml-transform: translate3d(-5px, 0, 0);
+    -moz-transform: translate3d(-5px, 0, 0);
+    -ms-transform: translate3d(-5px, 0, 0);
+    -o-transform: translate3d(-5px, 0, 0);
+    transform: translate3d(-5px, 0, 0); }
+  70% {
+    -webkit-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -khtml-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -moz-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -ms-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -o-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    transform: translate3d(-3px, -4px, 0) rotate(-5deg); }
+  100% {
+    -webkit-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -khtml-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -moz-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -ms-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -o-transform: translate3d(-1, 0, 0) rotate(5deg);
+    transform: translate3d(-1, 0, 0) rotate(5deg); } }
+
+@-moz-keyframes move_letter {
+  0% {
+    -webkit-transform: translate3d(-10px, 0, 0);
+    -khtml-transform: translate3d(-10px, 0, 0);
+    -moz-transform: translate3d(-10px, 0, 0);
+    -ms-transform: translate3d(-10px, 0, 0);
+    -o-transform: translate3d(-10px, 0, 0);
+    transform: translate3d(-10px, 0, 0); }
+  50% {
+    -webkit-transform: translate3d(-5px, 0, 0);
+    -khtml-transform: translate3d(-5px, 0, 0);
+    -moz-transform: translate3d(-5px, 0, 0);
+    -ms-transform: translate3d(-5px, 0, 0);
+    -o-transform: translate3d(-5px, 0, 0);
+    transform: translate3d(-5px, 0, 0); }
+  70% {
+    -webkit-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -khtml-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -moz-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -ms-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    -o-transform: translate3d(-3px, -4px, 0) rotate(-5deg);
+    transform: translate3d(-3px, -4px, 0) rotate(-5deg); }
+  100% {
+    -webkit-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -khtml-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -moz-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -ms-transform: translate3d(-1, 0, 0) rotate(5deg);
+    -o-transform: translate3d(-1, 0, 0) rotate(5deg);
+    transform: translate3d(-1, 0, 0) rotate(5deg); } }
+
+@keyframes rotate_letter {
+  0%, 100% {
+    -webkit-transform: translate3d(-4px, 0, 0);
+    -khtml-transform: translate3d(-4px, 0, 0);
+    -moz-transform: translate3d(-4px, 0, 0);
+    -ms-transform: translate3d(-4px, 0, 0);
+    -o-transform: translate3d(-4px, 0, 0);
+    transform: translate3d(-4px, 0, 0); }
+  25% {
+    -webkit-transform: translate3d(-6px, -5px, 0);
+    -khtml-transform: translate3d(-6px, -5px, 0);
+    -moz-transform: translate3d(-6px, -5px, 0);
+    -ms-transform: translate3d(-6px, -5px, 0);
+    -o-transform: translate3d(-6px, -5px, 0);
+    transform: translate3d(-6px, -5px, 0); }
+  50% {
+    -webkit-transform: translate3d(-8px, 0px, 0);
+    -khtml-transform: translate3d(-8px, 0px, 0);
+    -moz-transform: translate3d(-8px, 0px, 0);
+    -ms-transform: translate3d(-8px, 0px, 0);
+    -o-transform: translate3d(-8px, 0px, 0);
+    transform: translate3d(-8px, 0px, 0); }
+  75% {
+    -webkit-transform: translate3d(0, 0px, 0);
+    -khtml-transform: translate3d(0, 0px, 0);
+    -moz-transform: translate3d(0, 0px, 0);
+    -ms-transform: translate3d(0, 0px, 0);
+    -o-transform: translate3d(0, 0px, 0);
+    transform: translate3d(0, 0px, 0); } }
+
+@-webkit-keyframes rotate_letter {
+  0%, 100% {
+    -webkit-transform: translate3d(-4px, 0, 0);
+    -khtml-transform: translate3d(-4px, 0, 0);
+    -moz-transform: translate3d(-4px, 0, 0);
+    -ms-transform: translate3d(-4px, 0, 0);
+    -o-transform: translate3d(-4px, 0, 0);
+    transform: translate3d(-4px, 0, 0); }
+  25% {
+    -webkit-transform: translate3d(-6px, -5px, 0);
+    -khtml-transform: translate3d(-6px, -5px, 0);
+    -moz-transform: translate3d(-6px, -5px, 0);
+    -ms-transform: translate3d(-6px, -5px, 0);
+    -o-transform: translate3d(-6px, -5px, 0);
+    transform: translate3d(-6px, -5px, 0); }
+  50% {
+    -webkit-transform: translate3d(-8px, 0px, 0);
+    -khtml-transform: translate3d(-8px, 0px, 0);
+    -moz-transform: translate3d(-8px, 0px, 0);
+    -ms-transform: translate3d(-8px, 0px, 0);
+    -o-transform: translate3d(-8px, 0px, 0);
+    transform: translate3d(-8px, 0px, 0); }
+  75% {
+    -webkit-transform: translate3d(0, 0px, 0);
+    -khtml-transform: translate3d(0, 0px, 0);
+    -moz-transform: translate3d(0, 0px, 0);
+    -ms-transform: translate3d(0, 0px, 0);
+    -o-transform: translate3d(0, 0px, 0);
+    transform: translate3d(0, 0px, 0); } }
+
+@-moz-keyframes rotate_letter {
+  0%, 100% {
+    -webkit-transform: translate3d(-4px, 0, 0);
+    -khtml-transform: translate3d(-4px, 0, 0);
+    -moz-transform: translate3d(-4px, 0, 0);
+    -ms-transform: translate3d(-4px, 0, 0);
+    -o-transform: translate3d(-4px, 0, 0);
+    transform: translate3d(-4px, 0, 0); }
+  25% {
+    -webkit-transform: translate3d(-6px, -5px, 0);
+    -khtml-transform: translate3d(-6px, -5px, 0);
+    -moz-transform: translate3d(-6px, -5px, 0);
+    -ms-transform: translate3d(-6px, -5px, 0);
+    -o-transform: translate3d(-6px, -5px, 0);
+    transform: translate3d(-6px, -5px, 0); }
+  50% {
+    -webkit-transform: translate3d(-8px, 0px, 0);
+    -khtml-transform: translate3d(-8px, 0px, 0);
+    -moz-transform: translate3d(-8px, 0px, 0);
+    -ms-transform: translate3d(-8px, 0px, 0);
+    -o-transform: translate3d(-8px, 0px, 0);
+    transform: translate3d(-8px, 0px, 0); }
+  75% {
+    -webkit-transform: translate3d(0, 0px, 0);
+    -khtml-transform: translate3d(0, 0px, 0);
+    -moz-transform: translate3d(0, 0px, 0);
+    -ms-transform: translate3d(0, 0px, 0);
+    -o-transform: translate3d(0, 0px, 0);
+    transform: translate3d(0, 0px, 0); } }
+
 @-webkit-keyframes text3D {
   0%, 100% {
     -webkit-text-shadow: 1px -1px 1px #323232, 2px -2px 1px #323232, 3px -3px 1px #323232;
@@ -6634,6 +7014,7 @@ video.responsive-video {
 
 @-webkit-keyframes move {
   0% {
+    opacity: 0;
     -webkit-transform: translatey(-15px);
     -khtml-transform: translatey(-15px);
     -moz-transform: translatey(-15px);
@@ -6666,6 +7047,7 @@ video.responsive-video {
 
 @-moz-keyframes move {
   0% {
+    opacity: 0;
     -webkit-transform: translatey(-15px);
     -khtml-transform: translatey(-15px);
     -moz-transform: translatey(-15px);
@@ -6698,6 +7080,7 @@ video.responsive-video {
 
 @keyframes move {
   0% {
+    opacity: 0;
     -webkit-transform: translatey(-15px);
     -khtml-transform: translatey(-15px);
     -moz-transform: translatey(-15px);
